@@ -5,7 +5,7 @@ You can terminate the script by hitting F2, or using the tray icon.
 
 ## Demonstration
 
-(Examples/WinThrow_Demo.mp4)
+<video src="Examples/WinThrow_Demo.mp4" controls width="100%"></video>
 
 
 ## Requirements
