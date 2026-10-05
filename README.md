@@ -5,8 +5,7 @@ You can terminate the script by hitting F2, or using the tray icon.
 
 ## Demonstration
 
-<video src="Examples/WinThrow_Demo.mp4" controls width="100%"></video>
-
+https://github.com/user-attachments/assets/2835918a-2f90-4030-8b41-e019f89dcdac
 
 ## Requirements
 
